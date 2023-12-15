@@ -1,1 +1,3 @@
 # Harmonizing-Hit-Predictions-Leveraging-Audio-Features-to-Forecast-Spotify-s-Top-Songs
+
+In the dynamic realm of the music industry, accurately predicting a song's fate on the Spotify Global Top 50 chart is a pivotal endeavor for artists, record companies, and music enthusiasts. This project is dedicated to the development of a sophisticated classification model, leveraging a dataset meticulously sourced from data.world and enriched through the Spotify API. The primary objective is to equip stakeholders with a predictive tool that assigns a song to specific popularity classes, enabling a nuanced understanding of its potential success and aiding strategic decision-making.
